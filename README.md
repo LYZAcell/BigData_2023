@@ -1,6 +1,7 @@
 # Big_Data_Project
 - For Big Data class (23-2)
 - 이유경 and 이가영 collaborating for the project of the semester
+- The file is about Gayeong's code
 - Focused on gathering big data for analysis and to explain the significance of the organized information
 
 ## Anime
